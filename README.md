@@ -49,9 +49,9 @@ Commissioner: Marcel McWilliams
     7. 2 Day waiting period for waivers
   
 6. **Trades**
-  1. Trades will be processed right away, and if the commissioner senses collusion the matter will be put to a pole
-  2. During the offseason trades will still be able to be made
-  3. Trade deadline begins as soon as the first playoff game starts
+    1. Trades will be processed right away, and if the commissioner senses collusion the matter will be put to a pole
+    2. During the offseason trades will still be able to be made
+    3. Trade deadline begins as soon as the first playoff game starts
   
 
 
