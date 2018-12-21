@@ -1,8 +1,11 @@
 # 12 Extraordinary Men Dynasty Fantasy Football Constitution #
 Commissioner: Marcel McWilliams
+<br>
+<br>
+<br>
 
 
-## __Rules__ ##
+## __League Rules__ ##
 
 
 1. **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
@@ -52,6 +55,47 @@ Commissioner: Marcel McWilliams
     1. Trades will be processed right away, and if the commissioner senses collusion the matter will be put to a pole
     2. During the offseason trades will still be able to be made
     3. Trade deadline begins as soon as the first playoff game starts
-  
+    
+7. **Standings and Playoffs**
+    1. Top 5 records make the playoffs
+    2. Division leaders are automatically in
+    3. The highest scorer of the year will claim the 6th spot if not already in the top 6
+    4. If already in the top 6 the top 6 teams will make the playoffs
+    5. Starts week 14 and ends week 16
+8. **Scoring**
+    <table>
+      <tr>
+        <td>Passing</td>
+        <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
+        <td>.04<br>-2<br>6<br>2</td>
+      </tr>
+      <tr>
+        <td>Rushing</td>
+        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)</td>
+        <td>0.1<br>6<br>2</td>
+      </tr>
+      <tr>
+        <td>Receiving</td>
+        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
+        <td>0.1<br>6<br>2<br>1</td>
+      </tr>
+      <tr>
+        <td>Miscellaneous </td>
+        <td>Total Fumbles Lost</td>
+        <td>-2</td>
+      </tr>
+      <tr>
+        <td>Kicking</td>
+        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-39 Yard) (FG0)<br>Each Field Goal Made (40-49 Yard) (FG40)<br>Each Field Goal Made (50+)(FG50)<br>Field Goal Missed (FGM)</td>
+        <td>1<br>3<br>4<br>5<br>-1</td>
+      </tr>
+    </table>
 
-
+9. **Payout/Dues**
+    1. Payout will be through LeagueSafe
+    1. $50 fee each year
+    1. Will be necessary for rookie draft participation
+    1. If you are unable to pay your team will be given to a new owner
+    1. 1st place: $450 2nd place: $75 3rd place: $50 
+    1. $25 will rollover each year and the pot will be awarded to any owner who wins back to back years
+    1. If you trade future draft picks you have to pay the league dues for that year
