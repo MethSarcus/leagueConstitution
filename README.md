@@ -1,10 +1,31 @@
 # (League Name Here) Dynasty League Constitution #
+## Table of Contents
+
+- [League Governence](#section-i---league-governence)
+   - [Commissioner](#league-commissioner)
+   - [Co-Commissioners](#co-commissioners)
+   - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
+- [League Dues](#section-ii---league-dues)
+- [Payout](#section-iii---payout)
+- [Rosters](#section-iv---rosters)
+- [Free Agency & Trading](#section-v---free-agency--trading)
+  - [Free Agency](#free-agency)
+  - [Trading](#trades)
+- [Startup Draft](#section-vi---startup-draft)
+- [Rookie Draft](#section-vii---rookie-draft)
+- [Divisions & Schedule](#section-viii---divisions--schedule)
+   - [Divisions](#divisions)
+   - [Schedule](#regular-season-schedule)
+- [Playoffs](#section-ix---playoffs)
+   - [Championship](#championship-bracket)
+   - [Consolation](#consolation-bracket)
+- [Scoring](#section-x---scoring)
 <br>
 <br>
 
 ## __Section I - League Governence__ ##
 
-### League Commissioner: ###
+### League Commissioner ###
 __Eli Manning__
 > (800) 588-2300
 
@@ -12,7 +33,7 @@ __Eli Manning__
 
 <br>
 
-### Co-Commissioners: ###
+### Co-Commissioners ###
 __Odell Beckham Jr.__
 > (877) 393-4448
 
@@ -105,6 +126,8 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as the first playoff game starts.
+- Draft picks up to 3 years in the future are tradable.
+- Teams must pay dues for any year they trade draft picks in.
 
 <br><br>
 
@@ -164,7 +187,9 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
 - The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
 - The consolation bracket has no bearing on draft order.
+
 <br><br>
+
 ## __Section X - Scoring__ ##
 
 <table>
