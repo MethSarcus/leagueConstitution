@@ -5,40 +5,26 @@
 
 ## __Section I - League Governence__ ##
 
-### League Commissioner ###
-
-<br>
-
-
-#### __Eli Manning__ ####
-
+### League Commissioner: ###
+__Eli Manning__
 > (800) 588-2300
 
 > 3LI@ManningFace.com
 
-
 <br>
 
 ### Co-Commissioners ###
-
-<br>
-
-#### __Odell Beckham Jr.__ ####
-
+__Odell Beckham Jr.__
 > (877) 393-4448
 
 > OBJesus@onehandcatches.com 
 
-<br>
-<br>
 
-#### __Saquan Barkley__ ####
-
+__Saquan Barkley__
 > (800) 605-3369
 
 > TheQuadfather@demthighs.com
 
-<br>
 <br>
 
 ### Commissioner Site Powers ###
