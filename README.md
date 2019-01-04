@@ -50,23 +50,21 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ## __Section II - League Dues__ ##
 
 ### Entry Fee ###
-The Entry Fee for the league is $50 per team.
-
-Must be paid at minumum 2 weeks before the draft.
+- The Entry Fee for the league is $50 per team.
+- Must be paid at minimum 2 weeks before the draft (startup or rookie).
 
 ### Yearly Dues ###
 
-After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft
+- After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
+- Dues must also be paid for any year a team trades draft picks in.
 
 ### Penalties ###
-If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the comissioners discretion on whether or not to replace them.
+If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
 
 ## __Section III - Payout__ ##
-1st Place: $450 (75%)
-
-2nd Place: $75 (12.5%)
-
-3rd Place: $50 (8.34%)
+- 1st Place: $450 (75%)
+- 2nd Place: $75 (12.5%)
+- 3rd Place: $50 (8.34%)
 
 Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
 
@@ -90,102 +88,72 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 
 ### Free Agency ###
 
-Each team will receive $100 for a Free Agency Aquisition Budget
-
-Minimum bid to get a FA off waivers is $1
-
-Per transaction fee is $0
-
-FAAB dollars are not tradeable
-
-2 Day waiting period for waivers to clear
-
-Free agency locks a week after the championship ends.
+- Each team will receive $100 for a Free Agency Aquisition Budget
+- Minimum bid to get a FA off waivers is $1
+- Per transaction fee is $0
+- FAAB dollars are not tradeable
+- There is a two Day waiting period for waivers to clear
+- Free agency locks a week after the championship ends.
 
 
 ### Trades ###
-Trades will be processed right away, if collusion is suspected the matter will be put to a vote
-
-During the offseason trading is still allowed
-
-Trade deadline begins as soon as the first playoff game starts
+- Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
+- During the offseason trading is still allowed.
+- Trade deadline begins as soon as the first playoff game starts.
 
 
 ## __Section VI - Startup Draft__ ##
-Will take place (Insert Date Here) on (Insert Platform Here)
-
-Snake format (1st to 12th then 12th to 1st)
-
-Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick
-
-Trading draft picks is allowed during the startup draft
-
-If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them
+- Will take place (Insert Date Here) on (Insert Platform Here).
+- Snake format (1st to 12th then 12th to 1st).
+- Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick.
+- Trading draft picks is allowed during the startup draft.
+- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 
 
 ## __Section VII - Rookie Draft__ ##
 
 ### Rookie Draft Order ###
-
-The draft order for the rookie draft will be determined based on both regular and post-season results
-
-Picks 1-6 will be assigned in inverse order of the regular season standings.
-
-picks 7-12 will be assigned in inverse order of the postseason standings
-
-An additional pick (1.13) will be awarded to the winner of the consolation bracket
+- The draft order for the rookie draft will be determined based on both regular and post-season results
+- Picks 1-6 will be assigned in inverse order of the regular season standings.
+- Picks 7-12 will be assigned in inverse order of the postseason standings
+- An additional pick (1.13) will be awarded to the winner of the consolation bracket
 
 ### Rookie Draft Settings ###
-There will be 4 rounds of the rookie draft.
+- There will be 4 rounds of the rookie draft.
+- The rookie draft will take place the day immediately following the completion of the NFL draft.
+- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
+- Each day the draft will last from 9AM to 9PM with each team having 30 mins per pick.
+- Trading draft picks is allowed during the rookie draft
+- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
 
-The rookie draft will take place the day immediately following the completion of the NFL draft.
-
-The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-
-Each day the draft will last from 9AM to 9PM with each team having 30 mins per pick.
-
-Trading draft picks is allowed during the rookie draft
-
-If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
-
-Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them
+__Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
 ## __Section VIII - Divisions & Schedule__ ##
 
 ### Divisions ###
 
-There will be four divisions that teams will be randomly assigned to upon joining the league.
-
-Divisions will follow NFL division naming (North, South, East, West)
-
-Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
+- There will be four divisions that teams will be randomly assigned to upon joining the league.
+- Divisions will follow NFL division naming (North, South, East, West)
+- Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
 
 ### Regular Season Schedule ###
-The regular season lasts from week 1 to week 13.
-
-Teams will play their first and last two matches against the other teams in their division.
-
-The rest of the matches will be randomly determined at the beginning of the season.
-
-Playoffs begin week 14 with the championship game occuring week 16.
+- The regular season lasts from week 1 to week 13.
+- Teams will play their first and last two matches against the other teams in their division.
+- The rest of the matches will be randomly determined at the beginning of the season.
+- Playoffs begin week 14 with the championship game occuring week 16.
 
 
 ## __Section IX - Playoffs__ ##
 
 ### Championship Bracket ###
-The two teams with the best regular season records will be assigned to the top two seeds.
-
-The next three teams will be assigned their playoff seeding spot based on regular season record.
-
-The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
-
+- The two teams with the best regular season records will be assigned to the top two seeds.
+- The next three teams will be assigned their playoff seeding spot based on regular season record.
+- The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
 
 ### Consolation Bracket ###
-Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-
-The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
-
-The consolation bracket has no bearing on draft order.
+- Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
+- The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
+- The consolation bracket has no bearing on draft order.
 
 ## __Section X - Scoring__ ##
 
