@@ -60,14 +60,18 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 
 ### Penalties ###
 If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
+
 <br><br>
+
 ## __Section III - Payout__ ##
 - 1st Place: $450 (75%)
 - 2nd Place: $75 (12.5%)
 - 3rd Place: $50 (8.34%)
 
 Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
+
 <br><br>
+
 ## __Section IV - Rosters__ ##
 
 
@@ -84,6 +88,7 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
    IR | 3 | No Limit
 
 <br><br>
+
 ## __Section V - Free Agency & Trading__ ##
 
 ### Free Agency ###
@@ -102,6 +107,7 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - Trade deadline begins as soon as the first playoff game starts.
 
 <br><br>
+
 ## __Section VI - Startup Draft__ ##
 - Will take place (Insert Date Here) on (Insert Platform Here).
 - Snake format (1st to 12th then 12th to 1st).
@@ -110,6 +116,7 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 
 <br><br>
+
 ## __Section VII - Rookie Draft__ ##
 
 ### Rookie Draft Order ###
@@ -127,7 +134,9 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
+
 <br><br>
+
 ## __Section VIII - Divisions & Schedule__ ##
 
 ### Divisions ###
@@ -143,6 +152,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - Playoffs begin week 14 with the championship game occuring week 16.
 
 <br><br>
+
 ## __Section IX - Playoffs__ ##
 
 ### Championship Bracket ###
