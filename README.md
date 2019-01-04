@@ -1,34 +1,94 @@
-# 12 Extraordinary Men Dynasty Fantasy Football Constitution #
-Commissioner: Marcel McWilliams
+# (League Name Here) Dynasty League Constitution #
 <br>
 <br>
 <br>
 
+## __Section I - League Governence__ ##
 
-## __League Rules__ ##
+### League Commissioner ###
 
-
-1. **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion**
-
-
-2. If there is anything here someone disagrees with please let me know! I’ll be sure to poll it in GroupMe. If I slip up as a commish please call me out too, I’m a fan of constructive criticism.
+<br>
 
 
-3. **Draft Settings**
-    1. Will take place April 4th, 2018 through GroupMe and picks will be entered manually
-    2. Snake format
-    3. Each day will the draft will go from 9am to 9pm with 1 hour per pick
-    4. If you miss your pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken
-    5. You may draft any rookie picks 1.01 to 5.12
-    6. If there are leftover picks the draft will end at the last pick taken
-    7. If not all picks are taken the rookie draft will be shortened
-    8. Each year we will have a rookie draft the day after the NFL draft
-    9. Draft order will be determined by reverse order of the standings
-    10. Participation is optional. If you don’t wish to release any of your players you can sit out
-    11. Draft will take place from 9am to 9pm with 30 min per pick
-    12. Any undrafted rookie will be treated as a common FA. If they are unavailable on the ESPN database you will be able to claim them   on GroupMe. First come first serve
-  
-4. **Rosters**
+#### __Eli Manning__ ####
+
+> (800) 588-2300
+
+> 3LI@ManningFace.com
+
+
+<br>
+
+### Co-Commissioners ###
+
+<br>
+
+#### __Odell Beckham Jr.__ ####
+
+> (877) 393-4448
+
+> OBJesus@onehandcatches.com 
+
+<br>
+<br>
+
+#### __Saquan Barkley__ ####
+
+> (800) 605-3369
+
+> TheQuadfather@demthighs.com
+
+<br>
+<br>
+
+### Commissioner Site Powers ###
+The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
+
+
+### Co-Commissioner Site Powers ###
+The Co-Commissioners will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioners can attend to any urgent needs from league members.
+
+
+### Co-Commissioner Appointment ###
+The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
+
+
+### Dispute Arbitration ###
+The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+
+### Rule Changes ###
+
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
+
+### Collusion ###
+**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid**
+
+
+## __Section II - League Dues__ ##
+
+### Entry Fee ###
+The Entry Fee for the league is $50 per team.
+
+Must be paid at minumum 2 weeks before the draft.
+
+### Yearly Dues ###
+
+After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft
+
+### Penalties ###
+If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the comissioners discretion on whether or not to replace them.
+
+## __Section III - Payout__ ##
+1st Place: $450 (75%)
+
+2nd Place: $75 (12.5%)
+
+3rd Place: $50 (8.34%)
+
+Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
+
+## __Section IV - Rosters__ ##
+
 
    Position | Starters | Maximum
    -------- |--------- | -------
@@ -40,36 +100,119 @@ Commissioner: Marcel McWilliams
    D/ST | 1 | No Limit
    K | 1 | No Limit
    BE | 16 | No Limit
-   IR | 2 | No Limit
-   
-5. **Free Agency/Waivers**
-    1. Free agency locks a week after the championship ends. 
-    2. Each Member will receive $100 for a Free Agency Aquisition Budget
-    3. Minimum bid to get a FA off waivers is $1
-    4. Per transaction fee is $0
-    5. Once you run out of cash you won’t be able to make a waiver claim 
-    6. FAAB dollars are not tradeable
-    7. 2 Day waiting period for waivers
-  
-6. **Trades**
-    1. Trades will be processed right away, and if the commissioner senses collusion the matter will be put to a pole
-    2. During the offseason trades will still be able to be made
-    3. Trade deadline begins as soon as the first playoff game starts
-    
-7. **Standings and Playoffs**
-    1. Top 5 records make the playoffs
-    2. Division leaders are automatically in
-    3. The highest scorer of the year will claim the 6th spot if not already in the top 6
-    4. If already in the top 6 the top 6 teams will make the playoffs
-    5. Starts week 14 and ends week 16
-8. **Scoring**
-    <table>
-      <tr>
-        <td>Passing</td>
-        <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-        <td>.04<br>-2<br>6<br>2</td>
-      </tr>
-      <tr>
+   IR | 3 | No Limit
+
+
+## __Section V - Free Agency & Trading__ ##
+
+### Free Agency ###
+
+Each team will receive $100 for a Free Agency Aquisition Budget
+
+Minimum bid to get a FA off waivers is $1
+
+Per transaction fee is $0
+
+FAAB dollars are not tradeable
+
+2 Day waiting period for waivers to clear
+
+Free agency locks a week after the championship ends.
+
+
+### Trades ###
+Trades will be processed right away, if collusion is suspected the matter will be put to a vote
+
+During the offseason trading is still allowed
+
+Trade deadline begins as soon as the first playoff game starts
+
+
+## __Section VI - Startup Draft__ ##
+Will take place (Insert Date Here) on (Insert Platform Here)
+
+Snake format (1st to 12th then 12th to 1st)
+
+Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick
+
+Trading draft picks is allowed during the startup draft
+
+If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them
+
+
+## __Section VII - Rookie Draft__ ##
+
+### Rookie Draft Order ###
+
+The draft order for the rookie draft will be determined based on both regular and post-season results
+
+Picks 1-6 will be assigned in inverse order of the regular season standings.
+
+picks 7-12 will be assigned in inverse order of the postseason standings
+
+An additional pick (1.13) will be awarded to the winner of the consolation bracket
+
+### Rookie Draft Settings ###
+There will be 4 rounds of the rookie draft.
+
+The rookie draft will take place the day immediately following the completion of the NFL draft.
+
+The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
+
+Each day the draft will last from 9AM to 9PM with each team having 30 mins per pick.
+
+Trading draft picks is allowed during the rookie draft
+
+If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
+
+Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them
+
+## __Section VIII - Divisions & Schedule__ ##
+
+### Divisions ###
+
+There will be four divisions that teams will be randomly assigned to upon joining the league.
+
+Divisions will follow NFL division naming (North, South, East, West)
+
+Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
+
+### Regular Season Schedule ###
+The regular season lasts from week 1 to week 13.
+
+Teams will play their first and last two matches against the other teams in their division.
+
+The rest of the matches will be randomly determined at the beginning of the season.
+
+Playoffs begin week 14 with the championship game occuring week 16.
+
+
+## __Section IX - Playoffs__ ##
+
+### Championship Bracket ###
+The two teams with the best regular season records will be assigned to the top two seeds.
+
+The next three teams will be assigned their playoff seeding spot based on regular season record.
+
+The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
+
+
+### Consolation Bracket ###
+Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
+
+The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
+
+The consolation bracket has no bearing on draft order.
+
+## __Section X - Scoring__ ##
+
+<table>
+    <tr>
+    <td>Passing</td>
+    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
+    <td>.04<br>-2<br>6<br>2</td>
+    </tr>
+     <tr>
         <td>Rushing</td>
         <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)</td>
         <td>0.1<br>6<br>2</td>
@@ -91,11 +234,3 @@ Commissioner: Marcel McWilliams
       </tr>
     </table>
 
-9. **Payout/Dues**
-    1. Payout will be through LeagueSafe
-    1. $50 fee each year
-    1. Will be necessary for rookie draft participation
-    1. If you are unable to pay your team will be given to a new owner
-    1. 1st place: $450 2nd place: $75 3rd place: $50 
-    1. $25 will rollover each year and the pot will be awarded to any owner who wins back to back years
-    1. If you trade future draft picks you have to pay the league dues for that year
