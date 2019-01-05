@@ -1,4 +1,4 @@
-# (League Name Here) Dynasty League Constitution #
+# Reddit Stoner League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
@@ -26,10 +26,10 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Eli Manning__
-> (800) 588-2300
+__Seth Marcus__
+> (646) 753-2744
 
-> 3LI@ManningFace.com
+> sethie74@gmail.com
 
 <br>
 
@@ -71,12 +71,12 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ## __Section II - League Dues__ ##
 
 ### Entry Fee ###
-- The Entry Fee for the league is $50 per team.
+- The Entry Fee for the league is $40.20 per team.
 - Must be paid at minimum 2 weeks before the draft (startup or rookie).
 
 ### Yearly Dues ###
 
-- After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
+- After the first year there is a yearly total of $40.20 that must be paid 2 weeks before the start of the yearly rookie draft.
 - Dues must also be paid for any year a team trades draft picks in.
 
 ### Penalties ###
@@ -85,11 +85,10 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section III - Payout__ ##
+- (TBD)
 - 1st Place: $450 (75%)
 - 2nd Place: $75 (12.5%)
 - 3rd Place: $50 (8.34%)
-
-Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
 
 <br><br>
 
@@ -103,9 +102,10 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
    WR | 3 | No Limit
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
+   FLEX (RB/WR/TE/QB) | 1 | No Limit
    D/ST | 1 | No Limit
    K | 1 | No Limit
-   BE | 16 | No Limit
+   BE | 18 | No Limit
    IR | 3 | No Limit
 
 <br><br>
@@ -118,8 +118,8 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - Minimum bid to get a FA off waivers is $1
 - Per transaction fee is $0
 - FAAB dollars are not tradeable
-- There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the championship ends.
+- There is a one day waiting period for waivers to clear
+- Free agency is accessable until 2 weeks before the rookie draft.
 
 
 ### Trades ###
@@ -146,7 +146,6 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - The draft order for the rookie draft will be determined based on both regular and post-season results
 - Picks 1-6 will be assigned in inverse order of the regular season standings.
 - Picks 7-12 will be assigned in inverse order of the postseason standings
-- An additional pick (1.13) will be awarded to the winner of the consolation bracket
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
@@ -185,7 +184,6 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Consolation Bracket ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
 - The consolation bracket has no bearing on draft order.
 
 <br><br>
