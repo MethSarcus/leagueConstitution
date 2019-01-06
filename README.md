@@ -27,6 +27,8 @@
 
 ### League Commissioner ###
 __Seth Marcus__
+> The Harlem Equisapiens
+
 > (646) 753-2744
 
 > sethie74@gmail.com
@@ -34,20 +36,26 @@ __Seth Marcus__
 <br>
 
 ### Co-Commissioners ###
-__Odell Beckham Jr.__
-> (877) 393-4448
+__Jamison Tate Ball.__
+> Gin ‘n’ Guice with Mahomies
 
-> OBJesus@onehandcatches.com 
+> 
 
-<br>
-
-__Saquan Barkley__
-> (800) 605-3369
-
-> TheQuadfather@demthighs.com
+>
 
 <br>
 
+__Matt Driscoll__
+> NetflixKilleddaBlockbusterStar
+
+>
+
+>
+
+<br>
+## Comissioner Note ##
+This league was founded as a place for stoners to have some fun playing FF stoned, while not enforcable trades and actions should, in the spirit of the league, be done while blazed or intoxicated in some way. While this might not always be possible always keep the spirit and intent of the league at heart and remember to have a good time!
+<br>
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
 <br>
@@ -85,10 +93,10 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section III - Payout__ ##
-- (TBD)
-- 1st Place: $450 (75%)
-- 2nd Place: $75 (12.5%)
-- 3rd Place: $50 (8.34%)
+- 1st Place: $313.56 (65%)
+- 2nd Place: $72.36 (15%)
+- 3rd Place: $56.44 (11.7%)
+- Highest PF: $40.20 (8.3%)
 
 <br><br>
 
@@ -132,11 +140,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
-- Will take place (Insert Date Here) on (Insert Platform Here).
-- Snake format (1st to 12th then 12th to 1st).
-- Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick.
-- Trading draft picks is allowed during the startup draft.
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
+- Completed 2018
 
 <br><br>
 
@@ -164,7 +168,6 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 ### Divisions ###
 
 - There will be four divisions that teams will be randomly assigned to upon joining the league.
-- Divisions will follow NFL division naming (North, South, East, West)
 - Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
 
 ### Regular Season Schedule ###
