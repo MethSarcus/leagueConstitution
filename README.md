@@ -53,7 +53,8 @@ __Matt Driscoll__
 >
 
 <br>
-## Comissioner Note ##
+
+### Commissioner Note ###
 This league was founded as a place for stoners to have some fun playing FF stoned, while not enforcable trades and actions should, in the spirit of the league, be done while blazed or intoxicated in some way. While this might not always be possible always keep the spirit and intent of the league at heart and remember to have a good time!
 <br>
 ### Commissioner Site Powers ###
