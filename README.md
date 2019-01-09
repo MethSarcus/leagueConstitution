@@ -6,6 +6,7 @@
    - [Co-Commissioners](#co-commissioners)
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
+   - [Payment Links](#payment-pages)
 - [Payout](#section-iii---payout)
 - [Rosters](#section-iv---rosters)
 - [Free Agency & Trading](#section-v---free-agency--trading)
@@ -90,6 +91,11 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 
 ### Penalties ###
 If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
+
+### Payment Pages ###
+
+- [2019 LeagueSafe Page](https://www.leaguesafe.com/join/3871197)
+- [2020 LeagueSafe Page](https://www.leaguesafe.com/join/3889229)
 
 <br><br>
 
