@@ -1,9 +1,8 @@
-# (League Name Here) Dynasty League Constitution #
+# dynasty Addiction Dynasty League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
    - [Commissioner](#league-commissioner)
-   - [Co-Commissioners](#co-commissioners)
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iii---payout)
@@ -23,29 +22,7 @@
 <br>
 <br>
 
-## __Section I - League Governence__ ##
-
-### League Commissioner ###
-__Eli Manning__
-> (800) 588-2300
-
-> 3LI@ManningFace.com
-
-<br>
-
-### Co-Commissioners ###
-__Odell Beckham Jr.__
-> (877) 393-4448
-
-> OBJesus@onehandcatches.com 
-
-<br>
-
-__Saquan Barkley__
-> (800) 605-3369
-
-> TheQuadfather@demthighs.com
-
+## __Section I - League Governence__ #
 <br>
 
 ### Commissioner Site Powers ###
@@ -71,12 +48,12 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ## __Section II - League Dues__ ##
 
 ### Entry Fee ###
-- The Entry Fee for the league is $50 per team.
+- The Entry Fee for the league is $20 per team.
 - Must be paid at minimum 2 weeks before the draft (startup or rookie).
 
 ### Yearly Dues ###
 
-- After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
+- After the first year there is a yearly total of $20 that must be paid 2 weeks before the start of the yearly rookie draft.
 - Dues must also be paid for any year a team trades draft picks in.
 
 ### Penalties ###
@@ -85,11 +62,10 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section III - Payout__ ##
-- 1st Place: $450 (75%)
-- 2nd Place: $75 (12.5%)
-- 3rd Place: $50 (8.34%)
+- 1st Place: $175
+- 2nd Place: $40
+- 3rd Place: $25
 
-Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
 
 <br><br>
 
@@ -103,9 +79,9 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
    WR | 3 | No Limit
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
-   D/ST | 1 | No Limit
+   Super Flex (QB/RB/WR/TE)| 1 | No Limit
    K | 1 | No Limit
-   BE | 16 | No Limit
+   BE | 23 | No Limit
    IR | 3 | No Limit
 
 <br><br>
@@ -164,14 +140,10 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Divisions ###
 
-- There will be four divisions that teams will be randomly assigned to upon joining the league.
-- Divisions will follow NFL division naming (North, South, East, West)
-- Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
+- There will be two divisions that teams will be randomly assigned to upon joining the league.
 
 ### Regular Season Schedule ###
 - The regular season lasts from week 1 to week 13.
-- Teams will play their first and last two matches against the other teams in their division.
-- The rest of the matches will be randomly determined at the beginning of the season.
 - Playoffs begin week 14 with the championship game occuring week 16.
 
 <br><br>
