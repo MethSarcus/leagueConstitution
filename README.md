@@ -26,27 +26,11 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Eli Manning__
-> (800) 588-2300
+__Dominic Fuentes__
+> (989) 909 3208 
 
-> 3LI@ManningFace.com
+> Dominicfuentes87@gmail.com
 
-<br>
-
-### Co-Commissioners ###
-__Odell Beckham Jr.__
-> (877) 393-4448
-
-> OBJesus@onehandcatches.com 
-
-<br>
-
-__Saquan Barkley__
-> (800) 605-3369
-
-> TheQuadfather@demthighs.com
-
-<br>
 
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
@@ -85,11 +69,10 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section III - Payout__ ##
-- 1st Place: $450 (75%)
-- 2nd Place: $75 (12.5%)
-- 3rd Place: $50 (8.34%)
+- 1st Place: $475 
+- 2nd Place: $75 
+- 3rd Place: $50 
 
-Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
 
 <br><br>
 
@@ -102,11 +85,11 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
    RB | 2 | No Limit
    WR | 3 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
-   D/ST | 1 | No Limit
-   K | 1 | No Limit
-   BE | 16 | No Limit
-   IR | 3 | No Limit
+   FLEX (RB/WR/TE) | 3 | No Limit
+   Superflex (QB/RB/WR/TE) | 1 | No Limit
+   
+   BE | 17 | No Limit
+   IR | 2 | No Limit
 
 <br><br>
 
@@ -132,7 +115,7 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
-- Will take place (Insert Date Here) on (Insert Platform Here).
+- Will take place (TBD) on (Sleeper).
 - Snake format (1st to 12th then 12th to 1st).
 - Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick.
 - Trading draft picks is allowed during the startup draft.
@@ -146,7 +129,7 @@ Additionally $25 (4.16%) will be rolled over each year into a side pot that will
 - The draft order for the rookie draft will be determined based on both regular and post-season results
 - Picks 1-6 will be assigned in inverse order of the regular season standings.
 - Picks 7-12 will be assigned in inverse order of the postseason standings
-- An additional pick (1.13) will be awarded to the winner of the consolation bracket
+
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
@@ -180,13 +163,9 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Championship Bracket ###
 - The two teams with the best regular season records will be assigned to the top two seeds.
-- The next three teams will be assigned their playoff seeding spot based on regular season record.
-- The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
+- The next Fuor teams will be assigned their playoff seeding spot based on regular season record.
 
-### Consolation Bracket ###
-- Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
-- The consolation bracket has no bearing on draft order.
+
 
 <br><br>
 
