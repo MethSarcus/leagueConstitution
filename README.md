@@ -178,5 +178,5 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ## __Section X - Scoring__ ##
 
-- Please check the league settings on the Sleeper app
+- Please check the league settings on the Sleeper app.
 
