@@ -11,13 +11,13 @@
   - [Free Agency](#free-agency)
   - [Trading](#trades)
 - [Draft](#section-vi---draft)
-- [Divisions & Schedule](#section-viii---divisions--schedule)
+- [Divisions & Schedule](#section-vii---divisions--schedule)
    - [Divisions](#divisions)
    - [Schedule](#regular-season-schedule)
-- [Playoffs](#section-ix---playoffs)
+- [Playoffs](#section-viii---playoffs)
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
-- [Scoring](#section-x---scoring)
+- [Scoring](#section-ix---scoring)
 <br>
 <br>
 
