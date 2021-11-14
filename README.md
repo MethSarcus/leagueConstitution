@@ -10,7 +10,7 @@
 - [Free Agency & Trading](#section-v---free-agency--trading)
   - [Free Agency](#free-agency)
   - [Trading](#trades)
-- [Draft](#section-vi---startup-draft)
+- [Draft](#section-vi---draft)
 - [Divisions & Schedule](#section-viii---divisions--schedule)
    - [Divisions](#divisions)
    - [Schedule](#regular-season-schedule)
@@ -108,10 +108,9 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 - There are two divisions, Narnia and Camelot.
 
 ### Regular Season Schedule ###
-- The regular season lasts from week 1 to week 13.
-- Teams will play their first and last two matches against the other teams in their division.
-- The rest of the matches will be randomly determined at the beginning of the season.
-- Playoffs begin week 14 with the championship game occuring week 16.
+- The regular season lasts from week 1 to week 14.
+- Matches will be randomly determined at the beginning of the season.
+- Playoffs begin week 15 with the championship game occuring week 17.
 
 <br><br>
 
