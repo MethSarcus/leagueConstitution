@@ -118,8 +118,8 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 
 ### Championship Bracket ###
 - The winner of each division are awarded the top seeds.
-- The next three playoff spots are assigned to the teams with the best regular season records. If two teams have the same record the first tie breaker will be head to head record, if head to head records do not break the tie then points scored will be the tiebreaker, if points scored is unable to break a tie then power record is the next tiebreaker.
-- The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
+- The next three playoff spots are assigned to the teams with the best regular season records. If two teams have the same record the first tie breaker will be head to head record, if head to head records do not break the tie then points scored will be the tiebreaker, if points scored is unable to break a tie then power record is the next tiebreaker. If power records are identical then flip a coin, the winner of the coinflip is granted the coin, the loser is granted the spot in the playoffs.
+- The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams. If tie the playoff spot will go to the virtual track where a race will occur between virtual athletes to determine the winner of the playoff spot.
 
 ### Consolation Bracket ###
 - Seeding will be determined by end of regular season standing for the 4 teams not in the Championship Bracket.
